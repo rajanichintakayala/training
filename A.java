@@ -4,5 +4,6 @@ class A{
      {
           int a=10;
        System.out.println("hello");
+int a=10;
       }
 }
